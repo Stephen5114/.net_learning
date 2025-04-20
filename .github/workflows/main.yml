@@ -13,5 +13,5 @@ jobs:
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: win1232.site4now.net
-          username: chasonstaff-110
+          username: abcd_test
           password: as5562569
